@@ -1,6 +1,7 @@
 #include <iostream>
+#include "deck.h"
 
 int main() {
-    std::cout << "spit\n";
+    Deck deck{};
     return 0;
 }
